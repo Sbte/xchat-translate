@@ -1,4 +1,7 @@
-# Originally written by Fivesheep, modified by sbte
+# Originally written by Fivesheep:
+# http://code.google.com/p/gtranslatecmd/downloads/detail?name=translator.py
+# modified by sbte:
+# https://github.com/Sbte/xchat-translate
 
 __module_name__ = "Translator"
 __module_version__ = '0.2'
